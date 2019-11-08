@@ -1,2 +1,2 @@
 # git-practice1
-practice repository
+My name is aaa. My name is bbb.
